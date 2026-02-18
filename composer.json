@@ -1,5 +1,5 @@
 {
-  "name": "jcalderonzumba/mink-phantomjs-driver",
+  "name": "drunken-monkey/mink-phantomjs-driver",
   "description": "PhantomJS driver for Mink framework",
   "keywords": [
     "phantomjs",
